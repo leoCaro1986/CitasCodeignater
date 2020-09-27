@@ -59,7 +59,7 @@ class controlClinica extends CI_Controller {
                 $datebirth = $_POST['dateBirth'];
                 $city = $_POST['city'];
                 $district = $_POST['district'];
-                $cellphone = $_POST['cellphone'];
+                $cellphone = $_POST['cellphone'];    
                 $data = array(
                     'name' =>$name,
                     'lastname' =>$lastname,

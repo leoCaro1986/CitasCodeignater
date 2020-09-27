@@ -3,7 +3,7 @@
   <div class="container-fluid bg">  
     <div class="row mt-3">
       <div class="col">
-      <h5 class="navbar navbar-expand-lg navbar-light bg-light">Desing Andrea Barrera AND Leonardo Caro-2020 &copy;   &#x2709; leocv0205@gmail.com    cel.300-811-3422</h4>
+      <h5 class="navbar navbar-expand-lg navbar-light bg-light">Desing Andrea Barrera AND Leonardo Caro-2020 &copy;   &#x2709; leocv0205@gmail.com    cel . 300-811-3422</h4>
       </div>
     </div>
   </div>
